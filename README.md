@@ -34,6 +34,14 @@ Terpiez was developed for **CMSC436: Programming Handheld Systems at the Univers
 
 ---
 
+## App Preview
+
+| Statistics | Finder Map |
+|---|---|
+| ![Terpiez statistics screen](screenshots/statistics.png) | ![Terpiez finder map with a nearby collectible in range](screenshots/finder-map.png) |
+
+---
+
 ## How It Works
 
 ```txt
@@ -110,6 +118,7 @@ flutter test
 - Replace the course Redis dependency with a public portfolio backend
 - Split the large application file into feature-focused modules
 - Add mock repositories for reliable automated widget testing
-- Add screenshots and a short gameplay walkthrough
+- Add collection and creature-detail screenshots
+- Record a short gameplay walkthrough
 - Improve accessibility, onboarding, and permission explanations
 - Add automated integration tests for map and caching behavior
